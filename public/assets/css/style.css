@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+    background-color: bisque;
+    
+    }
+    .jumbHead {
+        background-image: url("https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+        border-radius: 20px;
+        align-content: center;
+        border-color: #1220eecc;
+        border: 30px;
+        
+    }
+    h1{
+        background: #1220eecc;
+        font-family: 'Vast Shadow', cursive;
+        text-align: center;
+        border-radius: 10px;
+        color: aliceblue;
+    }
